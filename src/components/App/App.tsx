@@ -11,6 +11,7 @@ export default function App() {
       <div className={css.app}>
         <CafeInfo />
         <VoteOptions />
+        <VoteStats />
       </div>
     </>
   );
