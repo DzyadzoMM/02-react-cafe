@@ -1,4 +1,3 @@
-import React from 'react';
 import { Votes } from '../../types/votes';
 import css from './VoteStats.module.css';
 
